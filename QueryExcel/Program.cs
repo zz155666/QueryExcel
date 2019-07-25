@@ -16,11 +16,17 @@ namespace QueryExcel
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            StartingUtil.InitSystemSettings();
-            StartingUtil.CheckDbVersion();
-            Application.Run(new ActiviteForm());
+            try
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                StartingUtil.InitSystemSettings();
+                //StartingUtil.CheckDbVersion();
+                Application.Run(new Mainform());
+            }catch(Exception e)
+            {
+                WXLog.Error("程序发生错误", e);
+            }
            
         }
     }
