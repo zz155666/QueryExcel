@@ -379,7 +379,6 @@
             // metroButton6
             // 
             this.metroButton6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton6.BackgroundImage = global::QueryExcel.Properties.Resources.Import_72px_1104556_easyicon_net;
             this.metroButton6.BackgroundImageDown = null;
             this.metroButton6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton6.BackgroundImageUp = null;
@@ -400,7 +399,6 @@
             // metroButton5
             // 
             this.metroButton5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton5.BackgroundImage = global::QueryExcel.Properties.Resources.Close_window_72px_1104489_easyicon_net;
             this.metroButton5.BackgroundImageDown = null;
             this.metroButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton5.BackgroundImageUp = null;
@@ -422,7 +420,6 @@
             // metroButton2
             // 
             this.metroButton2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton2.BackgroundImage = global::QueryExcel.Properties.Resources.Hard_disk_72px_1104547_easyicon_net;
             this.metroButton2.BackgroundImageDown = null;
             this.metroButton2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton2.BackgroundImageUp = null;
