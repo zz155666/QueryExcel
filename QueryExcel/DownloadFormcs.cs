@@ -12,7 +12,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EcPCclient
+namespace QueryExcel
 {
     public partial class DownloadFormcs : Form
     {

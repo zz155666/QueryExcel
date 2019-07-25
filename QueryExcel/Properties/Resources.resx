@@ -124,9 +124,6 @@
   <data name="用户" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\用户.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Hard_disk_72px_1104547_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hard_disk_72px_1104547_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="设置48png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\设置48png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -145,20 +142,8 @@
   <data name="删除24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\删除24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Import_72px_1104556_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Import_72px_1104556_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Close_window_72px_1104489_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Close_window_72px_1104489_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="弹出键盘down" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\弹出键盘down.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Pointing_72px_1104596_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pointing_72px_1104596_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Drive_Download_72px_1104518_easyicon.net" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Drive_Download_72px_1104518_easyicon.net.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="上一页24" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\上一页24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

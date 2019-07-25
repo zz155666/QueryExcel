@@ -1,4 +1,4 @@
-﻿namespace EcPCclient
+﻿namespace QueryExcel
 {
     partial class LoginForm
     {
@@ -71,7 +71,7 @@
             // txtPass
             // 
             this.txtPass.BackColor = System.Drawing.Color.White;
-            this.txtPass.Icon = global::EcPCclient.Properties.Resources.密码;
+            this.txtPass.Icon = global::QueryExcel.Properties.Resources.密码;
             this.txtPass.IsShowBorder = true;
             this.txtPass.Lines = new string[0];
             this.txtPass.Location = new System.Drawing.Point(78, 164);
@@ -92,7 +92,7 @@
             // txtUser
             // 
             this.txtUser.BackColor = System.Drawing.Color.White;
-            this.txtUser.Icon = global::EcPCclient.Properties.Resources.用户;
+            this.txtUser.Icon = global::QueryExcel.Properties.Resources.用户;
             this.txtUser.IsShowBorder = true;
             this.txtUser.Lines = new string[0];
             this.txtUser.Location = new System.Drawing.Point(78, 108);

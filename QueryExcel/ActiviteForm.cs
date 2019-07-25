@@ -9,7 +9,7 @@ using System.Text;
 using System.Windows.Forms;
 using static client.common.CommonOp;
 
-namespace EcPCclient
+namespace QueryExcel
 {
     public partial class ActiviteForm : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace EcPCclient
+﻿namespace QueryExcel
 {
     partial class Mainform
     {
@@ -199,7 +199,7 @@
             // nextpage
             // 
             this.nextpage.BackColor = System.Drawing.Color.White;
-            this.nextpage.BackgroundImage = global::EcPCclient.Properties.Resources.下一页24;
+            this.nextpage.BackgroundImage = global::QueryExcel.Properties.Resources.下一页24;
             this.nextpage.BackgroundImageDown = null;
             this.nextpage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.nextpage.BackgroundImageUp = null;
@@ -221,7 +221,7 @@
             // uppage
             // 
             this.uppage.BackColor = System.Drawing.Color.White;
-            this.uppage.BackgroundImage = global::EcPCclient.Properties.Resources.上一页24;
+            this.uppage.BackgroundImage = global::QueryExcel.Properties.Resources.上一页24;
             this.uppage.BackgroundImageDown = null;
             this.uppage.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.uppage.BackgroundImageUp = null;
@@ -257,7 +257,7 @@
             // metroButton7
             // 
             this.metroButton7.BackColor = System.Drawing.Color.White;
-            this.metroButton7.BackgroundImage = global::EcPCclient.Properties.Resources.设置48png;
+            this.metroButton7.BackgroundImage = global::QueryExcel.Properties.Resources.设置48png;
             this.metroButton7.BackgroundImageDown = null;
             this.metroButton7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton7.BackgroundImageUp = null;
@@ -297,7 +297,7 @@
             // 
             // delete
             // 
-            this.delete.BackgroundImage = global::EcPCclient.Properties.Resources.删除24;
+            this.delete.BackgroundImage = global::QueryExcel.Properties.Resources.删除24;
             this.delete.BackgroundImageDown = null;
             this.delete.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.delete.BackgroundImageUp = null;
@@ -317,7 +317,7 @@
             // 
             // fresh
             // 
-            this.fresh.BackgroundImage = global::EcPCclient.Properties.Resources.刷新24;
+            this.fresh.BackgroundImage = global::QueryExcel.Properties.Resources.刷新24;
             this.fresh.BackgroundImageDown = null;
             this.fresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.fresh.BackgroundImageUp = null;
@@ -337,7 +337,7 @@
             // 
             // down
             // 
-            this.down.BackgroundImage = global::EcPCclient.Properties.Resources.下载24;
+            this.down.BackgroundImage = global::QueryExcel.Properties.Resources.下载24;
             this.down.BackgroundImageDown = null;
             this.down.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.down.BackgroundImageUp = null;
@@ -379,7 +379,7 @@
             // metroButton6
             // 
             this.metroButton6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton6.BackgroundImage = global::EcPCclient.Properties.Resources.Import_72px_1104556_easyicon_net;
+            this.metroButton6.BackgroundImage = global::QueryExcel.Properties.Resources.Import_72px_1104556_easyicon_net;
             this.metroButton6.BackgroundImageDown = null;
             this.metroButton6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton6.BackgroundImageUp = null;
@@ -400,7 +400,7 @@
             // metroButton5
             // 
             this.metroButton5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton5.BackgroundImage = global::EcPCclient.Properties.Resources.Close_window_72px_1104489_easyicon_net;
+            this.metroButton5.BackgroundImage = global::QueryExcel.Properties.Resources.Close_window_72px_1104489_easyicon_net;
             this.metroButton5.BackgroundImageDown = null;
             this.metroButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton5.BackgroundImageUp = null;
@@ -422,7 +422,7 @@
             // metroButton2
             // 
             this.metroButton2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(152)))), ((int)(((byte)(246)))));
-            this.metroButton2.BackgroundImage = global::EcPCclient.Properties.Resources.Hard_disk_72px_1104547_easyicon_net;
+            this.metroButton2.BackgroundImage = global::QueryExcel.Properties.Resources.Hard_disk_72px_1104547_easyicon_net;
             this.metroButton2.BackgroundImageDown = null;
             this.metroButton2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.metroButton2.BackgroundImageUp = null;
